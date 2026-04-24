@@ -22,6 +22,9 @@ Frontend:
 * React.js
 * Redux
 * CSS / Bootstrap
+* Toast
+  
+  
 
 Backend:
 
@@ -33,7 +36,7 @@ Other:
 
 * JWT for authentication
 * Stripe for payments
-* Nodemailer for email services
+* Mailtrap for email services
 
 ---
 
